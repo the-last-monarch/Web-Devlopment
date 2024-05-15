@@ -1,0 +1,20 @@
+<!-- Inline CSS -->
+<html style="background-color: aqua"></html>
+
+<!-- Internal CSS -->
+<html>
+  <head>
+    <style>
+      html {
+        background: red;
+      }
+    </style>
+  </head>
+</html>
+
+<!-- External CSS -->
+<html>
+  <body>
+    <link rel="stylesheet" href="./1st_styles.css" />
+  </body>
+</html>
