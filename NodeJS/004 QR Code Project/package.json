@@ -1,0 +1,17 @@
+{
+  "name": "004-qr-code-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "004-qr-code-project": "file:",
+    "inquirer": "^12.4.2",
+    "qr-image": "^3.2.0"
+  }
+}
